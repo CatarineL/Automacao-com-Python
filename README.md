@@ -1,0 +1,1 @@
+Nesta seção reuni três pequenos projetos de automação usando a linguagem Python. O primeiro projeto refere-se ao cadastro automatizado de alunos em uma instituição de ensino, o segundo projeto refere-se a organização de arquivos e o terceiro sobre analisador automatizado de logs com o word. 
